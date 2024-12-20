@@ -1,6 +1,6 @@
 # Todo API Server Application
 
-Todo Server는 할 일 관리 웹 애플리케이션을 위한 RESTful API 서버 프로젝트 입니다
+Todo Server는 할 일 관리 웹 애플리케이션을 위한 RESTful API 서버 프로젝트 입니다 z
 
 ## 주요기능
 - 할 일 추가, 삭제, 수정, 조회
