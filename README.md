@@ -69,7 +69,7 @@ $> java -jar build/libs/todo-server-1.0-SNAPSHOT.jar
 ```
 
 ### 🌟 프로젝트 구조
-
+```
 todo-server/
 ├── src/
 │   ├── main/
@@ -84,3 +84,4 @@ todo-server/
 ├── gradlew.bat
 ├── settings.gradle.kts
 └── README.md
+```
