@@ -68,5 +68,3 @@ $> gradle clean build
 $> java -jar build/libs/todo-server-1.0-SNAPSHOT.jar
 ```
 
-## 라이센스
-이 프로젝트는 [MIT 라이센스](./LICENSE)에 따라 사용할 수 있습니다
