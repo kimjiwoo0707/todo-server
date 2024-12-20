@@ -56,7 +56,7 @@ Todo Server는 할 일 관리 웹 애플리케이션을 위한 RESTful API 서�
 ### 설치 및 실행
 1. 레포지토리를 클론하고 프로젝트 디렉토리로 이동합니다 
 ```sh
-$> git clone https://github.com/graceForClass/todo-server.git
+$> git clone https://github.com/kimjiwoo0707/todo-server.git
 $> cd todo-server   # 프로젝트 디렉토리로 이동
 ```
 2. gradle 로 프로젝트를 빌드합니다
